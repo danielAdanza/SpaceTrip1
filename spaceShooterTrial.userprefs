@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\spaceShooter BackUp\Assets\DestroyAsteroid.cs">
+    <Files>
+      <File FileName="..\spaceShooter BackUp\Assets\BattleBossController.cs" Line="80" Column="30" />
+      <File FileName="..\spaceShooter BackUp\Assets\DestroyAsteroid.cs" Line="19" Column="4" />
+      <File FileName="..\spaceShooter BackUp\Assets\LooseLife.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 3f94c7b5779fc2d409793f048269fd8a
+timeCreated: 1435183624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: base
+    100002: cristales
+    100004: cristales1
+    100006: cristales2
+    100008: cuerpo
+    100010: delantera
+    100012: laser_salida
+    100014: laterales
+    100016: laterales 1
+    100018: laterales1
+    100020: mastil
+    100022: motor
+    100024: motor 1
+    100026: motor1
+    100028: nave
+    100030: //RootNode
+    100032: parte_trasera
+    100034: parte_trsera
+    100036: polySurface1
+    100038: rallo_laser
+    100040: reflector
+    100042: transform1
+    100044: transform10
+    100046: transform11
+    100048: transform12
+    100050: transform13
+    100052: transform14
+    100054: transform15
+    100056: transform16
+    100058: transform17
+    100060: transform18
+    100062: transform19
+    100064: transform2
+    100066: transform20
+    100068: transform21
+    100070: transform22
+    100072: transform23
+    100074: transform24
+    100076: transform25
+    100078: transform26
+    100080: transform27
+    100082: transform28
+    100084: transform29
+    100086: transform3
+    100088: transform4
+    100090: transform5
+    100092: transform6
+    100094: transform7
+    100096: transform8
+    100098: transform9
+    100100: tubos
+    100102: tuvos
+    100104: tuvos1
+    100106: tuvos10
+    100108: tuvos11
+    100110: tuvos12
+    100112: tuvos13
+    100114: tuvos14
+    100116: tuvos15
+    100118: tuvos2
+    100120: tuvos3
+    100122: tuvos4
+    100124: tuvos5
+    100126: tuvos6
+    100128: tuvos7
+    100130: tuvos8
+    100132: tuvos9
+    400000: base
+    400002: cristales
+    400004: cristales1
+    400006: cristales2
+    400008: cuerpo
+    400010: delantera
+    400012: laser_salida
+    400014: laterales
+    400016: laterales 1
+    400018: laterales1
+    400020: mastil
+    400022: motor
+    400024: motor 1
+    400026: motor1
+    400028: nave
+    400030: //RootNode
+    400032: parte_trasera
+    400034: parte_trsera
+    400036: polySurface1
+    400038: rallo_laser
+    400040: reflector
+    400042: transform1
+    400044: transform10
+    400046: transform11
+    400048: transform12
+    400050: transform13
+    400052: transform14
+    400054: transform15
+    400056: transform16
+    400058: transform17
+    400060: transform18
+    400062: transform19
+    400064: transform2
+    400066: transform20
+    400068: transform21
+    400070: transform22
+    400072: transform23
+    400074: transform24
+    400076: transform25
+    400078: transform26
+    400080: transform27
+    400082: transform28
+    400084: transform29
+    400086: transform3
+    400088: transform4
+    400090: transform5
+    400092: transform6
+    400094: transform7
+    400096: transform8
+    400098: transform9
+    400100: tubos
+    400102: tuvos
+    400104: tuvos1
+    400106: tuvos10
+    400108: tuvos11
+    400110: tuvos12
+    400112: tuvos13
+    400114: tuvos14
+    400116: tuvos15
+    400118: tuvos2
+    400120: tuvos3
+    400122: tuvos4
+    400124: tuvos5
+    400126: tuvos6
+    400128: tuvos7
+    400130: tuvos8
+    400132: tuvos9
+    2300000: polySurface1
+    3300000: polySurface1
+    4300000: polySurface1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
